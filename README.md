@@ -22,7 +22,7 @@ SmoothDatePicker(
           ),
 ```
 ## Result
-![alt text](https://github.com/VladRizea/referenceimages/blob/master/example.jpg | width 100 "Picker example")
+![alt text](https://github.com/VladRizea/referenceimages/blob/master/example.jpg "Picker example"){:height="700px" width="400px"}
 # List of proprieties
 
 * onMonthChanged - get the selected month
