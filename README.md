@@ -3,6 +3,9 @@
 
 # Example
 
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 
 # How to use
@@ -32,8 +35,7 @@ SmoothDatePicker(
 * width - width of the picker
 * height - height of the picker
 * diameterRatio - diameterRatio of the picker
-* padding - padding duh...
+* padding - padding inside the card
 * duration - duration of the animation between selection
 * cardWidth - the width of the card
 * cardHeight - the height of the card
-**das**
