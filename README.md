@@ -1,5 +1,8 @@
-GET /{@rizeavlad.dev}/media
 
+<a href="https://twitter.com/intent/follow?screen_name=rizeavladdev">
+        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+            
 # Smooth Date Picker
 2 scroll axis date picker Dart, Flutter
 
