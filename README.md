@@ -11,6 +11,8 @@ You have to call the widget SmoothDatePicker, and customize it by changing the p
 
 ```dart
 SmoothDatePicker(
+            scrollDirection: Axis.vertical,
+            cardDirection: Axis.horizontal,
             mainColor: Colors.blue,
             secondColor: Colors.yellow,
             onMonthChanged: (month){
