@@ -22,7 +22,7 @@ SmoothDatePicker(
           ),
 ```
 ## Result
-<img width="200" alt="Picker Example" src="https://github.com/VladRizea/referenceimages/blob/master/example.jpg8">
+<img width="200" alt="Picker Example" src="https://github.com/VladRizea/referenceimages/blob/master/example.jpg">
 # List of proprieties
 
 * onMonthChanged - get the selected month
