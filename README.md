@@ -1,8 +1,4 @@
-
-<a href="https://twitter.com/intent/follow?screen_name=rizeavladdev">
-        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
-            
+<a href="https://twitter.com/rizeavladdev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rizeavladdev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 # Smooth Date Picker
 2 scroll axis date picker Dart, Flutter
 
