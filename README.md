@@ -1,4 +1,4 @@
-# datepicker
+# Smooth Date Picker
 2 axis date picker Dart, Flutter
 
 # How to use
