@@ -22,8 +22,7 @@ SmoothDatePicker(
           ),
 ```
 ## Result
-Inline-style: 
-![alt text](https://github.com/VladRizea/referenceimages/blob/master/example.jpg "Logo Title Text 1")
+![alt text](https://github.com/VladRizea/referenceimages/blob/master/example.jpg | width 100 "Picker example")
 # List of proprieties
 
 * onMonthChanged - get the selected month
