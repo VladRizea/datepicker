@@ -1,9 +1,19 @@
 # datepicker
 2 axis date picker Dart, Flutter
 
-# H1 
-How to use
+# How to use
 
-# H3
+You have to call the widget SmoothDatePicker, and customize it by calling the proprieties
 
-You have to call the function [c]
+```dart
+SmoothDatePicker(
+            mainColor: Colors.blue,
+            secondColor: Colors.yellow,
+            onMonthChanged: (month){
+              print(month),
+            },
+            onDayChanged: (day){
+              print(day),
+            },
+          ),
+```
