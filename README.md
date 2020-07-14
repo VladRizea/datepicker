@@ -23,17 +23,17 @@ SmoothDatePicker(
 ```
 # List of proprieties
 
-*onMonthChanged - get the selected month
-*onDayChanged - get the selected day
-*mainColor - main color of a card
-*secondColor - secondary color of a card(Text)
-*scrollDirection - scroll direction of the picker
-*cardDirection - the card orientation
-*width - width of the picker
-*height - height of the picker
-*diameterRatio - diameterRatio of the picker
-*padding - padding duh...
-*duration - duration of the animation between selection
-*cardWidth - the width of the card
-*cardHeight - the height of the card
+* onMonthChanged - get the selected month
+* onDayChanged - get the selected day
+* mainColor - main color of a card
+* secondColor - secondary color of a card(Text)
+* scrollDirection - scroll direction of the picker
+* cardDirection - the card orientation
+* width - width of the picker
+* height - height of the picker
+* diameterRatio - diameterRatio of the picker
+* padding - padding duh...
+* duration - duration of the animation between selection
+* cardWidth - the width of the card
+* cardHeight - the height of the card
 **das**
