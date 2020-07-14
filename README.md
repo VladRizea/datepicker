@@ -1,10 +1,7 @@
 # Smooth Date Picker
 2 axis date picker Dart, Flutter
 
-# Example
 
-Inline-style: 
-![alt text](https://github.com/VladRizea/referenceimages/blob/master/example.jpg "Logo Title Text 1")
 
 
 
@@ -24,6 +21,9 @@ SmoothDatePicker(
             },
           ),
 ```
+## Result
+Inline-style: 
+![alt text](https://github.com/VladRizea/referenceimages/blob/master/example.jpg "Logo Title Text 1")
 # List of proprieties
 
 * onMonthChanged - get the selected month
