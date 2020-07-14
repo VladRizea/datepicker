@@ -3,7 +3,7 @@
 
 # How to use
 
-You have to call the widget SmoothDatePicker, and customize it by calling the proprieties
+You have to call the widget SmoothDatePicker, and customize it by changing the proprieties
 
 ```dart
 SmoothDatePicker(
