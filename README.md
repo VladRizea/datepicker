@@ -42,3 +42,12 @@ SmoothDatePicker(
 * duration - duration of the animation between selection
 * cardWidth - the width of the card
 * cardHeight - the height of the card
+
+## other combinations
+Horizontal scroll with vertical card
+<img width="300" alt="Picker Example" src="https://github.com/VladRizea/referenceimages/blob/master/horizontal%20but%20vertical.jpg">
+
+Horizontal scroll with horizontal card
+<img width="300" alt="Picker Example" src="https://github.com/VladRizea/referenceimages/blob/master/horizontal%20horizontal.jpg">
+
+
