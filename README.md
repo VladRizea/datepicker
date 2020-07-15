@@ -1,6 +1,6 @@
 
-[![Instagram](https://img.shields.io/twitter/url?label=Follow%20@rizeavladdev&logo=twitter&style=social&url=https%3A%2F%2Fwww.instagram.com%2Frizeavlad.dev%2F)](https://twitter.com/rizeavladdev)
-[![Instagram](https://img.shields.io/twitter/url?label=Follow%20@rizeavlad.dev&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Frizeavlad.dev%2F)](https://www.instagram.com/rizeavlad.dev/)
+[![Instagram](https://img.shields.io/twitter/url?label=Follow%20@rizeavladdev&logo=twitter&style=social&url=https%3A%2F%2Fwww.instagram.com%2Frizeavladdev%2F)](https://twitter.com/rizeavladdev)
+[![Instagram](https://img.shields.io/twitter/url?label=Follow%20@rizeavladdev&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Frizeavladdev%2F)](https://www.instagram.com/rizeavladdev/)
 # Smooth Date Picker
 
 <br>
@@ -14,14 +14,14 @@ Horizontal and vertical date picker in  Flutter
 You have to call the widget SmoothDatePicker, and customize it by changing the proprieties
 
 ```dart
-SmoothDatePicker(
+SDatePicker(
             scrollDirection: Axis.vertical,
             cardDirection: Axis.horizontal,
             mainColor: Colors.blue,
             secondColor: Colors.yellow,
             onSelectionChanged: (selectedDate){
-                          print(selectedDate);
-                        },
+            print(selectedDate);
+            },
           ),
 ```
 ## Result

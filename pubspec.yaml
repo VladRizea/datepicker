@@ -1,6 +1,6 @@
-name: smooth_date_picker
+name: smoothdatepicker
 description: Horizontal and vertical date picker in Flutter, with the ability to change the scroll and card direction in any combination
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/VladRizea/datepicker
 
 environment:
@@ -11,8 +11,6 @@ dependencies:
     sdk: flutter
 
   vibration: ^1.4.0
-  date_util: ^0.1.4
-  intl: ^0.16.1
 
 dev_dependencies:
   flutter_test:
