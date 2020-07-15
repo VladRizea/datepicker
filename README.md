@@ -4,7 +4,7 @@
 # Smooth Date Picker
 
 <br>
-2 scroll axis date picker with integrated vibration Dart, Flutter
+Horizontal and vertical date picker fluter
 
 
 
@@ -55,7 +55,7 @@ The **VIBRATE** permission is required in AndroidManifest.xml.
 * cardWidth - the width of the card
 * cardHeight - the height of the card
 
-## other combinations
+## Other combinations
 ### Horizontal scroll with vertical card
 <img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/VladRizea/referenceimages/master/horizontal%20but%20vertical.jpg">
 
