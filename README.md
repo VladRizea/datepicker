@@ -4,7 +4,7 @@
 # Smooth Date Picker
 
 <br>
-2 scroll axis date picker Dart, Flutter
+2 scroll axis date picker with integrated vibration Dart, Flutter
 
 
 
@@ -20,16 +20,24 @@ SmoothDatePicker(
             mainColor: Colors.blue,
             secondColor: Colors.yellow,
             onMonthChanged: (month){
-              print(month),
+              print(month);
             },
             onDayChanged: (day){
-              print(day),
+              print(day);
             },
           ),
 ```
 ## Result
 
 <img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/VladRizea/referenceimages/master/example.jpg">
+
+## Android
+
+The **VIBRATE** permission is required in AndroidManifest.xml.
+```XML
+<uses-permission android:name="android.permission.VIBRATE"/>
+```
+
 
 ## List of proprieties
 
