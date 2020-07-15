@@ -11,7 +11,20 @@ Horizontal and vertical date picker in  Flutter
 
 # How to use
 
-You have to call the widget SmoothDatePicker, and customize it by changing the proprieties
+1. Depend on it
+```yaml
+dependencies:
+  smoothdatepicker: ^0.0.3
+```
+2. Install it
+
+3. Import it
+
+```dart
+import 'package:smoothdatepicker/smoothdatepicker.dart';
+```
+
+4. You have to call the widget SmoothDatePicker, and customize it by changing the proprieties
 
 ```dart
 SDatePicker(
