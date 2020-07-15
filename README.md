@@ -1,9 +1,10 @@
 
 
 # Smooth Date Picker
+![Twitter Follow](https://img.shields.io/twitter/follow/rizeavladdev)
+[![Twitter](https://img.shields.io/twitter/url?label=Follow%20me%20on%20Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Frizeavlad.dev%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.instagram.com%2Frizeavlad.dev%2F)
 2 scroll axis date picker Dart, Flutter
 
-![Twitter Follow](https://img.shields.io/twitter/follow/rizeavladdev)
 
 
 
