@@ -4,7 +4,7 @@
 # Smooth Date Picker
 
 <br>
-Horizontal and vertical date picker fluter
+Horizontal and vertical date picker in  Flutter
 
 
 
