@@ -29,7 +29,7 @@ SmoothDatePicker(
 ```
 ## Result
 
-<img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/referenceimages/install/master/example.jpg">
+<img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/VladRizea/referenceimages/master/example.jpg">
 
 ## List of proprieties
 
@@ -49,9 +49,9 @@ SmoothDatePicker(
 
 ## other combinations
 ### Horizontal scroll with vertical card
-<img width="300" alt="Picker Example" src="https://github.com/VladRizea/referenceimages/blob/master/horizontal%20but%20vertical.jpg">
+<img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/VladRizea/referenceimages/master/horizontal%20but%20vertical.jpg">
 
 ### Horizontal scroll with horizontal card
-<img width="300" alt="Picker Example" src="https://github.com/VladRizea/referenceimages/blob/master/horizontal%20horizontal.jpg">
+<img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/VladRizea/referenceimages/master/horizontal%20horizontal.jpg">
 
 
