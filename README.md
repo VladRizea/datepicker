@@ -29,7 +29,7 @@ SmoothDatePicker(
 ```
 ## Result
 
-<img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/VladRizea/referenceimages/blob/master/example.jpg">
+<img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/referenceimages/blob/master/example.jpg">
 
 ## List of proprieties
 
