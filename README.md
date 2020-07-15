@@ -26,7 +26,7 @@ SDatePicker(
 ```
 ## Result
 
-<img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/VladRizea/referenceimages/master/example.jpg">
+<img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/VladRizea/referenceimages/master/example.gif">
 
 ## Android
 
