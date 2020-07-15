@@ -1,6 +1,6 @@
 
-![Twitter Follow](https://img.shields.io/twitter/follow/rizeavladdev)
-[![Twitter](https://img.shields.io/twitter/url?label=Follow%20@rizeavlad.dev&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Frizeavlad.dev%2F)](https://www.instagram.com/rizeavlad.dev/)
+[![Instagram](https://img.shields.io/twitter/url?label=Follow%20@rizeavladdev&logo=twitter&style=social&url=https%3A%2F%2Fwww.instagram.com%2Frizeavlad.dev%2F)](https://twitter.com/rizeavladdev)
+[![Instagram](https://img.shields.io/twitter/url?label=Follow%20@rizeavlad.dev&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Frizeavlad.dev%2F)](https://www.instagram.com/rizeavlad.dev/)
 # Smooth Date Picker
 
 <br>
