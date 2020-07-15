@@ -1,4 +1,7 @@
-<a href="https://twitter.com/rizeavladdev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rizeavladdev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="default.asp">
+  <img src="https://github.com/VladRizea/referenceimages/blob/master/instagram-button-halmar-racing.png" alt="follow on instagram" style="width:42px;height:42px;">
+</a>
+
 # Smooth Date Picker
 2 scroll axis date picker Dart, Flutter
 
