@@ -19,12 +19,9 @@ SmoothDatePicker(
             cardDirection: Axis.horizontal,
             mainColor: Colors.blue,
             secondColor: Colors.yellow,
-            onMonthChanged: (month){
-              print(month);
-            },
-            onDayChanged: (day){
-              print(day);
-            },
+            onSelectionChanged: (selectedDate){
+                          print(selectedDate);
+                        },
           ),
 ```
 ## Result
@@ -41,8 +38,7 @@ The **VIBRATE** permission is required in AndroidManifest.xml.
 
 ## List of proprieties
 
-* onMonthChanged - get the selected month
-* onDayChanged - get the selected day
+* onSelectionChanged - what to do when the selection changes
 * mainColor - main color of a card
 * secondColor - secondary color of a card(Text)
 * scrollDirection - scroll direction of the picker
