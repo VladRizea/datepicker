@@ -71,4 +71,7 @@ The **VIBRATE** permission is required in AndroidManifest.xml.
 ### Horizontal scroll with horizontal card
 <img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/VladRizea/referenceimages/master/horizontal%20horizontal.jpg">
 
+### Vertical scroll with vertical card
+<img width="300" alt="Picker Example" src="https://raw.githubusercontent.com/VladRizea/referenceimages/master/vertical%20vertical.jpg">
+
 
