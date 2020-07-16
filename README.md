@@ -24,7 +24,7 @@ dependencies:
 import 'package:smoothdatepicker/smoothdatepicker.dart';
 ```
 
-4. You have to call the widget SDatePicker, and customize it by changing the proprieties
+4. You have to call the widget SmoothDatePicker, and customize it by changing the proprieties
 
 ```dart
 SDatePicker(

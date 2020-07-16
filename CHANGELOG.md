@@ -6,6 +6,10 @@
 
 * Second release that works
 
-## [0.0.3- 2020.07.16
+## [0.0.3] - 2020.07.16
 
-* Third release fixing some minor things lice wrong text
+* Third release fixing some minor things like wrong text
+
+## [0.0.4] - 2020.07.16
+
+* first real working build

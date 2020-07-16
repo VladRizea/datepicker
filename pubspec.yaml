@@ -1,6 +1,6 @@
 name: smoothdatepicker
 description: Horizontal and vertical date picker in Flutter, with the ability to change the scroll and card direction in any combination
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/VladRizea/datepicker
 
 environment:
@@ -41,7 +41,7 @@ flutter:
   # fonts:
   #   - family: Schyler
   #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Regular.ttfn
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
